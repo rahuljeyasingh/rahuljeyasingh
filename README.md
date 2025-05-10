@@ -10,16 +10,11 @@ A Tech enthusiast and builder with a unique foundation in **Mechanical Engineeri
 
 My journey has been filled with exciting projects like building my own programming language ("Rudito") in Python and creating real-time IoT devices that you can control remotely. I've also had a blast working on robotics projects for competitions! Currently, I'm putting my skills to work as a **Data Engineer** in Berlin, where I develop cool tools like fuzzy matching systems. I'm genuinely fascinated by how things work, whether they're physical objects or computational systems, and I'm always looking for new ways to create technology that makes a difference.
 
-Replace with your actual links:
-[![X Follow](https://img.shields.io/badge/-Follow-black?logo=x)](https://x.com/rahultesla_)
-[![LinkedIn Connect](https://custom-icon-badges.demolab.com/badge/-Connect-black?logo=linkedin-white)](https://www.linkedin.com/in/rahuljeyasingh)
-[![GitHub Follow](https://img.shields.io/github/followers/rahuljeyasingh?label=Follow&style=social)](https://github.com/rahuljeyasingh)
 
-
-### Languages, Tools, and Technologies:
+### 🛠️ Languages, Tools, and Technologies:
 
 ![Python](https://img.shields.io/badge/-Python-000000?logo=python&logoColor=yellow)
-![SQL](https://img.shields.io/badge/-SQL-000000?logo=sqlite&logoColor=003B57) <!-- Assuming for Data Engineering -->
+![SQL](https://img.shields.io/badge/-SQL-000000?logo=sqlite&logoColor=003B57) 
 ![Git](https://img.shields.io/badge/-Git-000000?logo=git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/-Linux-000000?logo=linux&logoColor=FCC624)
 ![Docker](https://img.shields.io/badge/-Docker-000000?logo=docker&logoColor=2496ED)
@@ -31,8 +26,11 @@ Replace with your actual links:
 ![ESP32](https://img.shields.io/badge/-ESP32-000000?logo=espressif&logoColor=E7352C)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000000?logo=raspberrypi&logoColor=A22846)
 
+---
+### 👤 Social media Profiles:
 
+[![My Page](https://img.shields.io/badge/-My%20Page-black?logo=bilibili)](rahuljeyasingh.com)
+[![X Follow](https://img.shields.io/badge/-Follow-black?logo=x)](https://x.com/rahultesla_)
+[![LinkedIn Connect](https://custom-icon-badges.demolab.com/badge/-Connect-black?logo=linkedin-white)](https://www.linkedin.com/in/rahuljeyasingh)
+[![GitHub Follow](https://img.shields.io/github/followers/rahuljeyasingh?label=Follow&style=social)](https://github.com/rahuljeyasingh)
 
-
-<!-- Add any other specific data engineering tools/frameworks you use, e.g., Pandas, NumPy, Spark if applicable -->
-<!-- Consider adding 'Mechanical Engineering' or 'Robotics' as a conceptual badge if you like, though these are usually for specific tools/languages -->
