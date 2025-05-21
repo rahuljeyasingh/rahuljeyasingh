@@ -27,7 +27,7 @@ My journey has been filled with exciting projects like building my own programmi
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000000?logo=raspberrypi&logoColor=A22846)
 
 ---
-### 👤 Social media Profiles
+### 🧔🏾‍♂️ Social media Profiles
 
 [![My Page](https://img.shields.io/badge/-My%20Page-black?logo=bilibili)](https://rahuljeyasingh.com)
 [![X Follow](https://img.shields.io/badge/-Follow-black?logo=x)](https://x.com/rahultesla_)
