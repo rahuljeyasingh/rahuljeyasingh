@@ -11,7 +11,7 @@ A Tech enthusiast and builder with a unique foundation in **Mechanical Engineeri
 My journey has been filled with exciting projects like building my own programming language ("Rudito") in Python and creating real-time IoT devices that you can control remotely. I've also had a blast working on robotics projects for competitions! Currently, I'm putting my skills to work as a **Data Engineer** in Berlin, where I develop cool tools like fuzzy matching systems. I'm genuinely fascinated by how things work, whether they're physical objects or computational systems, and I'm always looking for new ways to create technology that makes a difference.
 
 
-### 🛠️ Languages, Tools, and Technologies:
+### 🛠️ Languages, Tools, and Technologies
 
 ![Python](https://img.shields.io/badge/-Python-000000?logo=python&logoColor=yellow)
 ![SQL](https://img.shields.io/badge/-SQL-000000?logo=sqlite&logoColor=003B57) 
@@ -27,9 +27,9 @@ My journey has been filled with exciting projects like building my own programmi
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-000000?logo=raspberrypi&logoColor=A22846)
 
 ---
-### 👤 Social media Profiles:
+### 👤 Social media Profiles
 
-[![My Page](https://img.shields.io/badge/-My%20Page-black?logo=bilibili)](rahuljeyasingh.com)
+[![My Page](https://img.shields.io/badge/-My%20Page-black?logo=bilibili)](https://rahuljeyasingh.com)
 [![X Follow](https://img.shields.io/badge/-Follow-black?logo=x)](https://x.com/rahultesla_)
 [![LinkedIn Connect](https://custom-icon-badges.demolab.com/badge/-Connect-black?logo=linkedin-white)](https://www.linkedin.com/in/rahuljeyasingh)
 [![GitHub Follow](https://img.shields.io/github/followers/rahuljeyasingh?label=Follow&style=social)](https://github.com/rahuljeyasingh)
